@@ -1,3 +1,5 @@
+Ini adalah file dari github.vom/WiraDKP yakni developer package jcopml dan tentor online saya. So shout out to mas Wira
+
 # Unstructured Data by J.COp
 Note: Ini adalah **part kedua** dari belajar dasar-dasar machine learning dari nol.
 
